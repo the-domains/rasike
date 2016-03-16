@@ -1,0 +1,28 @@
+name: rasike
+favicon: null
+layout_spectrum: 0.7384621091187
+typography_spectrum: 0.2853694094810635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.14685598178766668
+  lightness: 0.7945803042966872
+  saturation: 0.15413770033046603
+  rhythmicContrast: 0.16499170451425016
+purpose: []
